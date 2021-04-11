@@ -1,0 +1,131 @@
+{
+    "supermercados": [{
+            "nombre": "Mercadona",
+            "dirección": "Calle Mercadona n 34",
+            "geolocalización": "41°24'12.2\"N 2°10'26.5\"E\"",
+            "lugar": "Madrid",
+            "productos": [{
+                    "nombre": "Aceite",
+                    "descripción": "Aceite de oliva virgen extra",
+                    "origen": "España",
+                    "precio": 3.5,
+                    "unidades": 1,
+                    "perecedero": true,
+                    "isAdquirido": true
+                },
+
+                {
+                    "nombre": "Arroz",
+                    "descripción": "Arroz bomba",
+                    "origen": "España",
+                    "precio": 1.25,
+                    "unidades": 1,
+                    "perecedero": true,
+                    "isAdquirido": true
+                },
+                {}
+            ],
+            "ofertas": [{
+                "nombre": "Papel de cocina",
+                "descripción": "Segunda unidad a mitad de precio",
+                "origen": "España",
+                "precio": 1.25,
+                "unidades": 2,
+                "isAdquirido": false
+            }],
+            "productosHabituales": [{
+                "nombre": "Patatas",
+                "descripción": "1kg de patatas",
+                "origen": "España",
+                "precio": 2.25,
+                "unidades": 1,
+                "isAdquirido": false
+            }]
+
+
+        },
+        {
+            "nombre": "Consum",
+            "dirección": "Calle Consum nº 6",
+            "geolocalización": "41°24'12.2\"N 2°10'26.5\"E\"",
+            "lugar": "Madrid",
+            "productos": [{
+                    "nombre": "Tomate",
+                    "descripción": "Tomate ",
+                    "origen": "España",
+                    "precio": 3.5,
+                    "unidades": 4,
+                    "perecedero": true,
+                    "isAdquirido": false
+                },
+
+                {
+                    "nombre": "Judía verde",
+                    "descripción": "Judía verde plana",
+                    "origen": "España",
+                    "precio": 1.25,
+                    "unidades": 10,
+                    "isAdquirido": true
+                }
+            ],
+            "ofertas": [{
+                "nombre": "Pastillas lavavajillas",
+                "descripción": "2x1 en todas las marcas de lavavajillas",
+                "origen": "España",
+                "precio": 4.25,
+                "unidades": 2,
+                "isAdquirido": true
+            }],
+            "productosHabituales": [{
+                "nombre": "Huevos",
+                "descripción": "Huevos gallina de corral",
+                "origen": "España",
+                "precio": 3.25,
+                "unidades": 12,
+                "isAdquirido": false
+            }]
+        },
+        {
+            "nombre": "Carrefour",
+            "dirección": "Avenida Carrefour nº 56",
+            "geolocalización": "41°24'12.2\"N 2°10'26.5\"E\"",
+            "lugar": "Madrid",
+            "productos": [{
+                    "nombre": "Pollo",
+                    "descripción": "Pollo troceado de corral",
+                    "origen": "España",
+                    "precio": 3.75,
+                    "unidades": 1,
+                    "isAdquirido": true
+                },
+
+                {
+                    "nombre": "Conejo",
+                    "descripción": "Conejo troceado",
+                    "origen": "España",
+                    "precio": 4.25,
+                    "unidades": 1,
+                    "isAdquirido": false
+                },
+                {}
+            ],
+            "ofertas": [{
+                "nombre": "Azafrán",
+                "descripción": "Azafrán en hebras",
+                "origen": "España",
+                "precio": 4.75,
+                "unidades": 1,
+                "isAdquirido": false
+            }],
+            "productosHabituales": [{
+                "nombre": "Pimentón",
+                "descripción": "Pimentón de la vera dulce",
+                "origen": "España",
+                "precio": 2.25,
+                "unidades": 1,
+                "isAdquirido": false
+            }]
+        }
+    ]
+
+}

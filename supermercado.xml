@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado>
+    <nombre>Aldi</nombre>
+    <dirección>Plaza Aldi nº 17</dirección>
+    <geolocalización>
+        <norte>41°24'12.2</norte>
+        <sur></sur>
+        <este>2°10'26.5</este>
+        <oeste></oeste>
+    </geolocalización>
+        <lugar>Madrid</lugar>
+    <productos>
+        <producto>
+            <nombre>Agua</nombre>
+            <descripción>Agua embotellada mineralización débil</descripción>
+            <origen>España</origen>
+            <precio> 3.5 </precio>
+            <unidades></unidades>
+            <isAdquirido>true</isAdquirido> 
+        </producto>
+        <producto>
+            <nombre>Leche</nombre>
+            <descripción>Leche de vaca</descripción>
+            <origen>España</origen>
+            <precio> 4.25 </precio>
+            <unidades>6</unidades>
+            <isAdquirido>false</isAdquirido> 
+        </producto>
+    </productos>
+    <ofertas>
+        <oferta>
+            <nombre>Caldo de verduras</nombre>
+            <descripción>2x1 en Caldo de verduras sin sal</descripción>
+            <origen>España</origen>
+            <precio> 1.5 </precio>
+            <unidades>2</unidades>
+            <isAdquirido>true</isAdquirido> 
+        </oferta>
+    </ofertas>
+    <productosHabituales>
+        <producto>
+            <nombre>Sal</nombre>
+            <descripción>Sal gruesa</descripción>
+            <origen>España</origen>
+            <precio>0.75</precio>
+            <unidades>1</unidades>
+            <isAdquirido>false</isAdquirido> 
+        </producto>
+    </productosHabituales>
+</supermercado>
